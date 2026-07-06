@@ -21,6 +21,14 @@ export const Projects: React.FC = () => {
       tags: ['Verilog HDL', 'FPGA Implementation', 'Error Correction Coding', 'High-Speed Communication'],
       category: 'FPGA / VLSI'
     },
+          {
+      id: 8,
+      title: 'CMOS Layout Design using Cadence Virtuoso',
+      description: 'Designed CMOS layouts using Cadence Virtuoso by performing transistor placement and routing according to design rules. Gained hands-on experience in ASIC physical layout design while learning DRC and LVS verification flow.',
+      tags: ['Cadence Virtuoso', 'CMOS Layout', 'DRC Verification', 'LVS Flow', 'ASIC Design'],
+      category: 'FPGA / VLSI'
+    },
+    
     {
       id: 2,
       title: 'Biomass-Derived Activated Carbon for Sustainable Energy Storage',
