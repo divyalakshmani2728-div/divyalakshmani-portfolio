@@ -13,6 +13,7 @@ export const Skills: React.FC = () => {
     'LTspice',
     'Proteus VSM',
     'VS Code',
+    'Cadence Virtuoso',
     'CANoe'
   ];
 
