@@ -130,7 +130,7 @@ export const Hero: React.FC = () => {
                 View Projects
               </a>
               <a
-                href="./Divyalakshmani_G_Resume.pdf"
+                href="./Divyalakshmani_G_Resume1.pdf"
                 download
                 className="px-6 py-3 rounded-xl border border-black/10 dark:border-white/10 bg-white/5 text-slate-800 dark:text-slate-200 font-medium hover:bg-black/5 dark:hover:bg-white/10 hover:scale-[1.02] active:scale-95 transition-all flex items-center"
               >
