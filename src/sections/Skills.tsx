@@ -3,7 +3,7 @@ import { Code2, Wrench, Cpu } from 'lucide-react';
 import { SkillBadge } from '../components/SkillBadge';
 
 export const Skills: React.FC = () => {
-  const programming = ['C', 'Python', 'Verilog HDL','EMBEDDED C', 'HTML','CSS','JAVASCRIPT'];
+  const programming = ['C', 'Python', 'Verilog HDL','EMBEDDED C', 'HTML','CSS'];
   
   const tools = [
     'Xilinx Vivado',
